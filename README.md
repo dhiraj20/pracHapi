@@ -1,2 +1,2 @@
 # pracHapi
-An hapi js app
+An hapi app for login
