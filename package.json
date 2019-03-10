@@ -1,0 +1,28 @@
+{
+  "name": "prachapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dhiraj20/hapijsapp.git"
+  },
+  "author": "Dhiraj",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.4",
+    "hapi": "^17.8.1",
+    "hapi-auth-jwt2": "^8.3.0",
+    "hapi-swagger": "^9.3.0",
+    "inert": "^5.1.2",
+    "joi": "^14.3.1",
+    "mongoose": "^5.4.3",
+    "nodemailer": "^5.1.1",
+    "nodemon": "^1.18.9",
+    "vision": "^5.4.4"
+  }
+}
